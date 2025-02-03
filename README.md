@@ -1,44 +1,42 @@
 <div align="center">
 
-<!-- Animated Floating Cube -->
-[![HoloCube](https://raw.githubusercontent.com/Luca-Dev/Luca-Dev/main/assets/floating_cube.gif)](https://github.com/Luca-Dev)
+# 💫 Luca's Github
 
-<!-- Interactive Terminal Header -->
-[![Terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=1000&lines=++%24+cd+%2Fluca/code-realm;+%24+./init.sh+--profile=cyberdev)](https://git.io/typing-svg)
+[![Fancy Profile Card](https://fancy-readme-stats.vercel.app/api?username=Luca-Dev&theme=cyberpunk&email=luca.dev@example.com&show_icons=true&title=Luca's%20Code%20Realm&description=16yo%20Java%20Alchemist%20@%20Alternate&include_all_commits=true&show_icons=true)](https://github.com/max1mde/fancy-readme-stats)
 
-</div>
-
----
-
-## 🌐 **Realtime Developer Dashboard**
-
-<div align="center">
-
-| [![Bio Sphere](https://raw.githubusercontent.com/Luca-Dev/Luca-Dev/main/assets/bio_sphere.svg)](https://github.com/Luca-Dev) | [![Dynamic Stats](https://github-readme-stats.vercel.app/api?username=Luca-Dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&custom_title=SYSTEM%20DIAGNOSTICS)](https://github.com/Luca-Dev) |
-|------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+[![Java JEDI](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&pause=1000&color=22F72E&center=true&vCenter=true&width=800&lines=Java+Architect+in+Training;Spring+Framework+Enthusiast;Young+Code+Artisan;Enterprise+Systems+Explorer)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🛸 **Tech Transmitter**
+## 🌀
 
 <div align="center">
+  
+[![Java Timeline](https://skillicons.dev/icons?i=java,spring,hibernate,gradle,kotlin&perline=5)](https://skillicons.dev)
+  
+![Matrix Code](https://raw.githubusercontent.com/Luca-Dev/Luca-Dev/main/assets/matrix.gif)
+  
+</div>
+
+---
+
+## 🧬 **Code DNA**
 
 ```java
-public class InnovationEngine {
-    public static void main(String[] args) {
-        new Thread(() -> {
-            while(true) {
-                Idea idea = Brainstorm.next()
-                    .withJava(21)
-                    .withSpring(6)
-                    .withCloud(NEON);
+public class DigitalAlchemist {
+    private final int AGE = 16;
+    private final String[] SUPERPOWERS = {"Java Sorcery", "Spring Framework", "Cloud Alchemy"};
+    
+    public void transformWorld() {
+        while(!universe.perfect()) {
+            Code magic = new Code()
+                .withCreativity()
+                .withPassion()
+                .withJava(17);
                 
-                if(idea.isDisruptive()) {
-                    Universe.implement(idea);
-                }
-            }
-        }).start();
+            universe.improve(magic);
+        }
     }
 }
