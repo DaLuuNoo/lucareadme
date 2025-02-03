@@ -14,7 +14,7 @@
 
 <div align="center">
   
-[![Java Timeline](https://skillicons.dev/icons?i=java,spring,hibernate,gradle,kotlin&perline=5)](https://skillicons.dev)
+[![Java Timeline](https://skillicons.dev/icons?i=java,hibernate&perline=5)](https://skillicons.dev)
   
 ![Matrix Code](https://raw.githubusercontent.com/Luca-Dev/Luca-Dev/main/assets/matrix.gif)
   
